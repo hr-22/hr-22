@@ -1,4 +1,11 @@
 ### Hi there 👋
+Hello !! My name is Hamsikha. I am currently pursuing BE Electronics and communication engineering.
+
+I have an interest in Game Development, coding, and Artificial Intelligence. 
+
+☆ Currently Learning Python, C#, and Game Design.
+
+☆ I’m currently working on improving my coding skills to develop a game using Unity/ Unreal Engine.
 
 <!--
 **hr-22/hr-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
