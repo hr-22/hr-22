@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello !! My name is Hamsikha. I am currently pursuing BE Electronics and communication engineering.
 
-I have an interest in Game Development, coding, and Artificial Intelligence. 
+I have an interest in Game Development, coding, and Data Science. 
 
 ☆ Currently Learning Python, C#, and Game Design.
 
